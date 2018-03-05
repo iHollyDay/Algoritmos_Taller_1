@@ -1,0 +1,9 @@
+Máximo fibonacci soportado C++ y Java
+
+short 24
+unsignet short 25
+int 47
+unsignet int 48
+long 93
+unsigned long 94
+ambos lenguajes comparten el tamaño maximo de sus datos
